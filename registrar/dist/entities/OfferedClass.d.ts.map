@@ -1,0 +1,1 @@
+{"version":3,"file":"OfferedClass.d.ts","sourceRoot":"","sources":["../../lib/entities/OfferedClass.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAC;AAEpC,qBACa,YAAY;IACW,IAAI,EAAE,MAAM,CAAC;IACpB,IAAI,EAAE,MAAM,CAAC;IACvB,KAAK,EAAE,MAAM,CAAC;IAG7B,QAAQ,EAAE,OAAO,EAAE,CAAC;CACvB"}
